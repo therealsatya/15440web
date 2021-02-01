@@ -18,16 +18,16 @@ social: false
 The goals of this course are twofold.  First, for students to gain an understanding of the principles and techniques behind the design of distributed systems, such as locking, concurrency, caching, prefetching, scheduling, and communication across the network.   Second, for students to gain practical experience designing, implementing, and debugging real distributed systems.
 
 The major themes this course will teach include:
-* resource scarcity, scheduling, and concurrency
-* communication latency and bandwidth
-* naming
-* abstraction and modularity
-* imperfect communication and other types of failure
-* protection from accidental and malicious harm
-* optimism
-* consensus
-* use of instrumentation, monitoring, and debugging tools in problem solving. 
-* design, implementation, and debugging of substantial programming projects that span the above themes
+* Resource scarcity, scheduling, and concurrency
+* Communication latency and bandwidth
+* Naming
+* Abstraction and modularity
+* Imperfect communication and other types of failure
+* Protection from accidental and malicious harm
+* Pptimism
+* Consensus
+* Use of instrumentation, monitoring, and debugging tools in problem solving. 
+* Design, implementation, and debugging of substantial programming projects that span the above themes
 
 ## Grading
 
@@ -40,19 +40,49 @@ All coursework is done individually. There are no teams or project partners.  Fo
 
 ## Learning Outcomes
 We expect students to gain a deep understanding, fluency in reasoning, and hands-on implementation skills of the following core systems concepts in distributed systems:
-1. Communication and remote procedure call; control semantics and language limitations; exactly-once, at-most-once, at-least-once; serialization and de-serialization; end-to-end argument and its application to real systems; integration with threading; concurrency of operations
+1. * Communication and remote procedure call
+   * Control semantics and language limitations
+   * Exactly-once, at-most-once, at-least-once
+   * Serialization and de-serialization
+   * End-to-end argument and its application to real systems
+   * Integration with threading
+   * Concurrency of operations
 
-2. Data caching and one-copy semantics; cache consistency protocols and implementation tradeoffs; origins of temporaland spatial locality; cache quality metrics; application-specific consistency protocols; prefetching: benefits and risks; extraction of hints; buffer bloat
+2. * Data caching and one-copy semantics
+   * Cache consistency protocols and implementation tradeoffs
+   * Origins of temporaland spatial locality
+   * Cache quality metrics
+   * Application-specific consistency protocols
+   * Prefetching: benefits and risks
+   * Extraction of hints
+   * Buffer bloat
 
-3. Failures in distributed systems: origins and empirical studies; fail fast and Byzantine failures; fundamental limits of failure resilience
+3. * Failures in distributed systems: origins and empirical studies
+   * Fail fast and Byzantine failures
+   * Fundamental limits of failure resilience
 
-4. Fault tolerance: atomic transactions; ACID property; implementation challenges; shadowing, intentions lists and write-ahead logging; tradeoffs in physical logging and operation logging; nested transactions; distributed transactions
+4. * Fault tolerance: atomic transactions; ACID property
+   * Implementation challenges
+   * Shadowing, intentions lists and write-ahead logging
+   * Tradeoffs in physical logging and operation logging
+   * Nested transactions
+   * Distributed transactions
 
-5. Consensus and blockchain: unanimity (two-phase commit); majority (leader election, Paxos); Byzantine (single-shot and Dolev-Strong); state machine replication and Streamlet; Bitcoin
+5. * Consensus and blockchain: unanimity (two-phase commit)
+   * Majority (leader election, Paxos)
+   * Byzantine (single-shot and Dolev-Strong)
+   * State machine replication and Streamlet
+   * Bitcoin
 
 6. Common programming paradigms such as Map-Reduce, MPI and GraphLab
 
-7. *(Only if time permits)*: Achieving high availability: voting-based preservation of one-copy semantics; taxonomy of replication strategies: pessimistic and optimistic approaches; read-write and write-write conflicts; server-client and peer-to-peer strategies; caching and disconnected operation; resolving conflicts; exploiting low bandwidth to improve availability
+7. *(Only if time permits)*: 
+   * Achieving high availability: voting-based preservation of one-copy semantics
+   * Taxonomy of replication strategies: pessimistic and optimistic approaches
+   * Read-write and write-write conflicts
+   * Server-client and peer-to-peer strategies
+   * Caching and disconnected operation; resolving conflicts
+   * Exploiting low bandwidth to improve availability
 
 ## Course Logistics
 
@@ -149,17 +179,17 @@ Think of piazza as raising your hand in class and asking a question.   No questi
 At all times, we expect you to use your good judgement in your Piazza posts (questions as well as answers to the questions of fellow students).  Part of the learning process is struggling with the material until you arrive at the right insight for you to understand it. Posting too much detail in response to a request for assistance can impair learning. On the other hand, sometimes it's great to be nudged in the right direction when you're not able to get out of a rut. And, of course, misunderstandings of the assignment or tools available should be helped rapidly. Please use your best judgement when posting to the Piazza site, as if you were collaborating with your friends in person. A few rough guidelines:
 
 Examples of good things to  post and answer: 
-* misunderstandings of the assignment
-* clarifications about the requirements
-* bugs in the assignment spec or reference implementation or tests
-* small, detailed questions about the operation of system calls, functions, etc. 
-* things that look like they'd go in an FAQ for the assignment
+* Misunderstandings of the assignment
+* Clarifications about the requirements
+* Bugs in the assignment spec or reference implementation or tests
+* Small, detailed questions about the operation of system calls, functions, etc. 
+* Things that look like they'd go in an FAQ for the assignment
 
 Examples of bad things to post or answer: 
-* more than a few lines of code
-* in-depth explanations of how your system works
-* questions about the best approach for architecting the system at a high level
-* questions about your grade
+* More than a few lines of code
+* In-depth explanations of how your system works
+* Questions about the best approach for architecting the system at a high level
+* Questions about your grade
 
 We expect you to have made reasonable effort to think for yourself before posting a piazza question.  This is especially true with respect to debugging your code.   Did you try the man pages?   Did you do a Google search for possibly relevant resources?   Did you look at the previous questions people have already asked, and at the answers provided?    Did you insert printf's and try to understand what is going on with your code?
 
@@ -167,7 +197,8 @@ Don't use autolab as a debugging tool.  We expect you to have made reasonable ef
 
 **Private posts on Piazza are not supported.**     This is a policy decision for this class.   Remember, posting on piazza is similar to raising your hand and asking a question.    Other students benefit from your asking the question, and seeing the instructors' reply.   We do allow  your posts to be anonymous to fellow students, if you so choose.  That is already  a degree of privacy beyond what is possible when asking a question in class.      For  the genuinely rare occasions when you need to make a private request that is not related to course content,  a special private mailing list has been created.  
 
-**For requests that truly need to be private:** send email to `15-440-student-private@lists.andrew.cmu.edu` and one of the instructors will reply.   Email to this list involving course content (e.g., clarifications  to class material) will be ignored; you should be posting such questions on Piazza.
+For requests that truly need to be private
+: send email to `15-440-student-private@lists.andrew.cmu.edu` and one of the instructors will reply.   Email to this list involving course content (e.g., clarifications  to class material) will be ignored; you should be posting such questions on Piazza.
 
 ### Policy on Late Submissions
 
@@ -190,17 +221,23 @@ Use common sense: don't have 500-character lines of code, don't name your variab
 
 We will be looking for the following things:
 
-* Documentation:  Good documentation is important: for yourself in the future, for other maintainers of the code, and in this context, for the graders who will be looking at your code. Don't feel the need to document every line of code (as good code should also be self-documenting in a sense), but it is usually good to highlight the general usage and purpose of each function, as well as large or complex blocks of code. It is also good practice to include a file header in each file, detailing how that file fits into the structure of the project as a whole.
+Documentation
+: Good documentation is important: for yourself in the future, for other maintainers of the code, and in this context, for the graders who will be looking at your code. Don't feel the need to document every line of code (as good code should also be self-documenting in a sense), but it is usually good to highlight the general usage and purpose of each function, as well as large or complex blocks of code. It is also good practice to include a file header in each file, detailing how that file fits into the structure of the project as a whole.
 
-* White-space:  Please be consistent. Please don't use tab 2 spaces some places then 4 in others. Be reasonable and use white-space to ensure your code is legible.
+White-space
+: Please be consistent. Please don't use tab 2 spaces some places then 4 in others. Be reasonable and use white-space to ensure your code is legible.
 
-* Line Length:  We will be reasonable about line length, as long as you are consistent and your line limits are reasonable (500 characters is not... 80 or 120 characters is commonly used and accepted).
+Line Length
+: We will be reasonable about line length, as long as you are consistent and your line limits are reasonable (500 characters is not... 80 or 120 characters is commonly used and accepted).
 
-* Variable  Names: Your variable names should give a clear indication of what they represent or their usage case.
+Variable Names
+: Your variable names should give a clear indication of what they represent or their usage case.
 
-* Dead/Test Code:  Try not to submit code that is littered with debug print statements or large commented chunks of code. It decreases readability and distracts from the code that will actually run in production.
+Dead/Test Code
+: Try not to submit code that is littered with debug print statements or large commented chunks of code. It decreases readability and distracts from the code that will actually run in production.
 
-* Design:   Try to design your code and projects in such a way that it is reasonably modular. 5000-line functions are generally a sign of poor design and will give you headaches later.
+Design
+: Try to design your code and projects in such a way that it is reasonably modular. 5000-line functions are generally a sign of poor design and will give you headaches later.
 
 Here is a [Google style guide](https://code.google.com/p/google-styleguide/) that may be helpful.
 
