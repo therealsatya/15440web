@@ -1,273 +1,203 @@
-# al-folio
-
-[![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
-[![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
-[![gitter](https://badges.gitter.im/alshedivat/al-folio.svg)](https://gitter.im/alshedivat/al-folio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-![GitHub](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)
-[![GitHub stars](https://img.shields.io/github/stars/alshedivat/al-folio)](https://github.com/alshedivat/al-folio)
-[![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
-
-A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
-
-[![Preview](assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
-
-
-## User community
-
-The vibrant community of **al-folio** users is growing!
-Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
-Check out the community webpages below.
-Feel free to add your own page(s) by sending a PR.
-
-<table>
-<tr>
-<td>Academics</td>
-<td>
-<a href="http://maruan.alshedivat.com" target="_blank">★</a>
-<a href="https://maithraraghu.com" target="_blank">★</a>
-<a href="http://platanois.org" target="_blank">★</a>
-<a href="https://otiliastr.github.io" target="_blank">★</a>
-<a href="https://www.maths.dur.ac.uk/~sxwc62/" target="_blank">★</a>
-<a href="http://jessachandler.com/" target="_blank">★</a>
-<a href="https://mayankm96.github.io/" target="_blank">★</a>
-<a href="https://markdean.info/" target="_blank">★</a>
-<a href="https://kakodkar.github.io/" target="_blank">★</a>
-<a href="https://sahirbhatnagar.com/" target="_blank">★</a>
-<a href="https://spd.gr/" target="_blank">★</a>
-<a href="https://jay-sarkar.github.io/" target="_blank">★</a>
-<a href="https://aborowska.github.io/" target="_blank">★</a>
-<a href="https://aditisgh.github.io/" target="_blank">★</a>
-<a href="https://alexhaydock.co.uk/" target="_blank">★</a>
-<a href="https://alixkeener.net/" target="_blank">★</a>
-<a href="https://andreea7b.github.io/" target="_blank">★</a>
-<a href="https://rishabhjoshi.github.io/" target="_blank">★</a>
-<a href="https://sheelabhadra.github.io/" target="_blank">★</a>
-<a href="https://giograno.me/" target="_blank">★</a>
-<a href="https://immsrini.github.io/" target="_blank">★</a>
-<a href="https://apooladian.github.io/" target="_blank">★</a>
-<a href="https://chinmoy-dutta.github.io/" target="_blank">★</a>
-<a href="https://liamcli.com/" target="_blank">★</a>
-<a href="https://yoonholee.com/" target="_blank">★</a>
-<a href="https://zrqiao.github.io/" target="_blank">★</a>
-<a href="https://abstractgeek.github.io/" target="_blank">★</a>
-</td>
-</tr>
-<tr>
-<td>Labs</td>
-<td>
-<a href="https://www.haylab.caltech.edu/" target="_blank">★</a>
-<a href="https://sjkimlab.github.io/" target="_blank">★</a>
-<a href="https://systemconsultantgroup.github.io/scg-folio/" target="_blank">★</a>
-<a href="https://decisionlab.ucsf.edu/" target="_blank">★</a>
-</td>
-</tr>
-<tr>
-<td>Courses</td>
-<td>
-CMU PGM (<a href="https://sailinglab.github.io/pgm-spring-2019/" target="_blank">S-19</a>),
-CMU DeepRL (<a href="https://cmudeeprl.github.io/703website_f19/" target="_blank">F-19</a>, <a href="https://cmudeeprl.github.io/Spring202010403website/" target="_blank">S-20</a>, <a href="https://cmudeeprl.github.io/703website/" target="_blank">F-20</a>),
-CMU MMML (<a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2020/" target="_blank">F-20</a>)
-</td>
-</tr>
-<tr>
-<td>Conferences & workshops</td>
-<td>
-ML Retrospectives (NeurIPS: <a href="https://ml-retrospectives.github.io/neurips2019/" target="_blank">2019</a>, <a href="https://ml-retrospectives.github.io/neurips2020/" target="_blank">2020</a>; ICML: <a href="https://ml-retrospectives.github.io/icml2020/" target="_blank">2020</a>),
-HAMLETS (NeurIPS: <a href="https://hamlets-workshop.github.io/" target="_blank">2020</a>),
-ICBINB (NeurIPS: <a href="https://i-cant-believe-its-not-better.github.io/" target="_blank">2020</a>)
-</td>
-</tr>
-</table>
-
-
-## Getting started
-
-For more about how to use Jekyll, check out [this tutorial](https://www.taniarascia.com/make-a-static-website-with-jekyll/).
-Why Jekyll? Read this [blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
-
-
-### Installation
-
-Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), first [fork](https://guides.github.com/activities/forking/) the theme from `github.com:alshedivat/al-folio` to `github.com:<your-username>/<your-repo-name>` and do the following:
-
-```bash
-$ git clone git@github.com:<your-username>/<your-repo-name>.git
-$ cd <your-repo-name>
-$ bundle install
-$ bundle exec jekyll serve
-```
-
-Now, feel free to customize the theme however you like (don't forget to change the name!).
-After you are done, **commit** your final changes.
-Now, you can deploy your website to [GitHub Pages](https://pages.github.com/) by running the deploy script:
+# 15-440/640 Distributed Systems
+###  Spring 2021
 
-```bash
-$ ./bin/deploy [--user]
-```
-By default, the script uses the `master` branch for the source code and deploys the webpage to `gh-pages`.
-The optional flag `--user` tells it to deploy to `master` and use `source` for the source code instead.
-Using `master` for deployment is a convention for [user and organization pages](https://help.github.com/articles/user-organization-and-project-pages/).
+### [Readings&#8195;](readings/index.html) [Projects&#8195;](assets/PROJECTS/) [Problem Sets&#8195;](assets/PROBLEMSETS/)
 
-**Note:** when deploying your user or organization page, make sure the `_config.yml` has `url` and `baseurl` fields as follows.
+## Overview
 
-```
-url:  # should be empty
-baseurl:  # should be empty
-```
+15-440 is an introductory course in distributed systems.  The emphasis will be on the techniques for creating functional, usable, and scalable distributed systems.  To make the issues more concrete, the class includes several multi-week projects requiring significant design and implementation
 
+The goals of this course are twofold.  First, for students to gain an understanding of the principles and techniques behind the design of distributed systems, such as locking, concurrency, caching, prefetching, scheduling, and communication across the network.   Second, for students to gain practical experience designing, implementing, and debugging real distributed systems.
 
-### Upgrading from a previous version
+The major themes this course will teach include:
+* resource scarcity, scheduling, and concurrency
+* communication latency and bandwidth
+* naming
+* abstraction and modularity
+* imperfect communication and other types of failure
+* protection from accidental and malicious harm
+* optimism
+* consensus
+* use of instrumentation, monitoring, and debugging tools in problem solving. 
+* design, implementation, and debugging of substantial programming projects that span the above themes
 
-If you installed **al-folio** as described above, you can upgrade to the latest version as follows:
+## Grading
 
-```bash
-# Assuming the current directory is <your-repo-name>
-$ git remote add upstream https://github.com/alshedivat/al-folio.git
-$ git fetch upstream
-$ git rebase upstream/v0.3.1
-```
+All coursework is done individually. There are no teams or project partners.  For in-person offerings of this course (pre-COVID and, hopefully, post-COVID) the evaluation was based on projects (45%), problem sets (20%), mid-term exam (15%), and final exam (20%).  For the Spring 2021 offering of the course, because of COVID constraints, the exams are replaced by *cumulative problem sets.*  These are like open-book exams, but without the time pressure.  As their name implies, they include all the material covered in class  up to that point.  We refer to the other problem sets as *topical problem sets* since they focus on topics.  So the Spring 2021 evaluation will be as follows (all weights approximate, within a 5% range):
+* 45% for 4 projects, equally weighted
+* 20% for 4 topical problem sets, equally weighted
+* 15% for mid-semester cumulative problem set
+* 20% for final cumulative problem set.
 
-If you have extensively customized a previous version, it might be trickier to upgrade.
-You can still follow the steps above, but `git rebase` may result in merge conflicts that must be resolved.
-See [git rebase manual](https://help.github.com/en/github/using-git/about-git-rebase) and how to [resolve conflicts](https://help.github.com/en/github/using-git/resolving-merge-conflicts-after-a-git-rebase) for more information.
-If rebasing is too complicated, we recommend to re-install the new version of the theme from scratch and port over your content and changes from the previous version manually.
 
+## Learning Outcomes
+We expect students to gain a deep understanding, fluency in reasoning, and hands-on implementation skills of the following core systems concepts in distributed systems:
+1. Communication and remote procedure call; control semantics and language limitations; exactly-once, at-most-once, at-least-once; serialization and de-serialization; end-to-end argument and its application to real systems; integration with threading; concurrency of operations
 
-## Features
+2. Data caching and one-copy semantics; cache consistency protocols and implementation tradeoffs; origins of temporaland spatial locality; cache quality metrics; application-specific consistency protocols; prefetching: benefits and risks; extraction of hints; buffer bloat
 
-### Publications
+3. Failures in distributed systems: origins and empirical studies; fail fast and Byzantine failures; fundamental limits of failure resilience
 
-Your publications page is generated automatically from your BibTex bibliography.
-Simply edit `_bibliography/papers.bib`.
-You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
+4. Fault tolerance: atomic transactions; ACID property; implementation challenges; shadowing, intentions lists and write-ahead logging; tradeoffs in physical logging and operation logging; nested transactions; distributed transactions
 
-#### Author Annotation
-In publications, the author entry for your self is identified by string `scholar:last_name` and string array `scholar:first_name` in `_config.yml`. If the entry matches the last name and one form of the first names, it will be underlined. 
-```
-scholar:
-  last_name: Einstein
-  first_name: [Albert, A.]
-```
-Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll will insert links to their webpages automatically.
-The coauthor data format in `_data/coauthors.yml` is as follows,
-```
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+5. Consensus and blockchain: unanimity (two-phase commit); majority (leader election, Paxos); Byzantine (single-shot and Dolev-Strong); state machine replication and Streamlet; Bitcoin
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+6. Common programming paradigms such as Map-Reduce, MPI and GraphLab
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+7. *(Only if time permits)*: Achieving high availability: voting-based preservation of one-copy semantics; taxonomy of replication strategies: pessimistic and optimistic approaches; read-write and write-write conflicts; server-client and peer-to-peer strategies; caching and disconnected operation; resolving conflicts; exploiting low bandwidth to improve availability
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+## Course Logistics
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-```
-If the entry matches one of the combinations of the last names and the first names, it will be highlighted and linked to the url provided. 
+### Professors
 
-<p align="center"><img src="assets/img/publications-screenshot.png" width=800></p>
+| *Name* | *Office Hours* | *Office* | *Phone* | *Andrew email* |
+| [Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) &nbsp;|Tue 1:00 - 3:00 pm |GHC-9123&nbsp;|&nbsp;x8-3743&nbsp;|satya|
+| [Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm&nbsp;&nbsp;|GHC-9232&nbsp;|&nbsp;x8-4151&nbsp;|pspillai|
+|[Runting Shi](https://www.cylab.cmu.edu/directory/bios/shi-elaine.html) (Elaine)|Mon 4:00 - 6:00 pm |CIC-2217||rshi|
+||||
 
+### Teaching Assistants
 
-### Collections
 
-This Jekyll theme implements `collections` to let you break up your work into categories.
-The theme comes with two default collections: `news` and `projects`.
-Items from the `news` collection are automatically displayed on the home page.
-Items from the `projects` collection are displayed on a responsive grid on projects page.
+| *Name* |  *Office Hours* |*Andrew email*&nbsp;&nbsp;|
+|Nathan Ang|Thu 6:00-8:00 pm|nathanan|
+|Junwon Chang (Joseph)&nbsp;&nbsp;|Sat 9:00-11:00 am|junwonc|
+|Wenxin Ding (Freda)|Fri 10:00-12:00|wenxind|
+|Timothy Ganger|Sat 4:00-6:00 pm|tganger|
+|Ziying He|Fri 5:00-7:00 pm|ziyingh|
+|Roger Iyengar|Wed 1:00-3:00 pm|raiyenga|
+|Ishaan Jaffer|Thu 2:00-4:00 pm|ijaffer|
+|Ibnul Jahan|Tue 4:00-6:00 pm|iej|
+|Chen Jin (Crystal)|Fri 8:00-10:00|chenj|
+|Yajin Li|Mon 10:00-12:00 pm&nbsp;|yajinl|
+|Diego San Miguel|Fri 2:00-4:00 pm|dsanmigu|
+|Riccardo Santoni|Mon 8:00--10:00 pm|rsantoni|
+|Yiwen Song (Victor)|Thu 9:00-11:00 pm|yiwenson|
+|Haithem Turki|Wed 3:00-5:00 pm|hturki|
+|Clarissa Xu|Tue 6:30-8:30 pm|csxu|
+||||
 
-<p align="center"><img src="assets/img/projects-screenshot.png" width=700></p>
 
-You can easily create your own collections, apps, short stories, courses, or whatever your creative work is.
-To do this, edit the collections in the `_config.yml` file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
 
+### Lectures
 
-### Layouts
+* Tuesdays and Thursdays, 10:40 am &mdash; 12:00 noon 
+* Zoom links and video recordings: [On Canvas page for this course](https://canvas.cmu.edu/courses/22255)
+* No class:   Tuesday Februrary 23 (Break Day), Thursday April 15 (Spring Carnival)
+* Last class: Thursday, May 6
 
-**al-folio** comes with stylish layouts for pages and blog posts.
 
-#### The iconic style of Distill
+### Recitations
 
-The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
+* Time:  Wednesdays  7:00 &mdash; 7:50pm (Section A), 8:00 &mdash; 8:50pm (Section B)
+* Zoom links and video recordings:  [On Canvas page for this course](https://canvas.cmu.edu/courses/22255)
 
-<p align="center"><a href="https://alshedivat.github.io/al-folio/blog/2018/distill/" target="_blank"><img src="assets/img/distill-screenshot.png" width=700></a></p>
+### Course Notes 
 
-For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2018/distill/).
+Will be placed in the course AFS area at:  `/afs/andrew/course/15/440/classnotes`  after each class.
+These notes are for your personal use only.   Please do not distribute them.
 
-#### Full support for math & code
+### Textbooks and Optional Readings
 
-**al-folio** supports fast math typesetting through [KaTeX](https://katex.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes):
+There are no required textbooks.   Here are three good references to use for optional reading:
 
-<p align="center">
-<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="assets/img/math-screenshot.png" width=400></a>
-<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="assets/img/code-screenshot.png" width=400></a>
-</p>
+* "Distributed Systems: Principles and Paradigms"   by Andrew S. Tanenbaum and Maarten Van Steen, Third (2017) Edition, Prentice Hall
+* "Guide to Reliable Distributed Systems"  by Kenneth P. Birman, Springer
+* [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net) by Elaine Shi (2020, Book manuscript)
 
-#### Photos
+In addition, the "Readings" link at the top of this web page has some specifc optional readings that we will mention at  different points in the lectures.  The pdf's of these optional  readings are available on this course website.
 
-Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/).
-Easily create beautiful grids within your blog posts and project pages:
 
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="assets/img/photos-screenshot.png" width="75%">
-  </a>
-</p>
+## Course Policies
 
+### Prerequisites
 
-### Other features
+Because this course has a big project component, you must be proficient in C and Java programming on UNIX systems. It is required that you have taken 15-213 and gotten a "C" or higher since many of the programming skills you will need are taught in that course.  **If you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440, perhaps taking an additional course to sharpen your systems skills.**
 
-#### Theming
-Six beautiful theme colors have been selected to choose from.
-The default is purple, but you can quickly change it by editing `$theme-color` variable in the `_sass/_themes.scss` file.
-Other color variables are listed there as well.
+### Policy on Academic Integrity
 
-#### Social media previews
-**al-folio** supports preview images on social media.
-To enable this functionality you will need to set `serve_og_meta` to `true` in your `_config.yml`.
-Once you have done so, all your site's pages will include Open Graph data in the HTML head element.
+The [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html) applies to this course.    All students are expected to carefully review this policy and to adhere to it for all aspects of this course.  
 
-You will then need to configure what image to display in your site's social media previews.
-This can be configured on a per-page basis, by setting the `og_image` page variable.
-If for an individual page this variable is not set, then the theme will fall back to a site-wide `og_image` variable, configurable in your `_config.yml`.
-In both the page-specific and site-wide cases, the `og_image` variable needs to hold the URL for the image you wish to display in social media previews.
+Guidance on Collaboration:
+* Students are encouraged to talk to each other, to the TAs, to the instructors, or to anyone else about any of the assignments. Any assistance, though, must be limited to discussion of the problem and sketching general approaches to a solution. 
+* Each student must write out his or her own solutions to problem sets.  All  projects must be done individually.
+* Consulting another student's solution is prohibited, and submitted solutions may not be copied from any source. These actions constitute cheating. 
+* If you have any question about whether some activity would constitute cheating, please feel free to ask the instructors.
 
+Guidance on Sharing: You may not supply work that you complete during 15-440 to other students in future instances of this course or for use in future instances of this course (just as you may not use work completed by students who've taken the course previously).
 
-## Contributing
+### Recordings 
 
-Contributions to al-folio are very welcome!
-Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
+For Spring 2021, Zoom sessions of each lecture and recitation will be recorded by CMU Computing Services and posted to the [Canvas page for this course](https://canvas.cmu.edu/courses/22255).  **All other recordings are prohibited.**
 
-If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
-For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+### Limit on Using TA time
 
+To be fair to everyone, especially when there is a long line of students waiting for a TA's attention,  there will be a limit of 10 minutes on all consultations.  If a student is not done at the end of 10 minutes, he/she goes back to the end of the line before getting more time with the TA.  Be prepared before you meet with a TA.  If you need help finding a bug, narrow and simplify the problem down in advance of meeting with the TA.
 
-## FAQ
+### Piazza Policy
+ 
+This course uses the Piazza website for answering questions: [here is the Piazza page for this course](https://piazza.com/cmu/spring2021/15440/home). 
 
-Here are some frequently asked questions.
-If you have a different question, please ask on [gitter](https://gitter.im/alshedivat/al-folio).
+Think of piazza as raising your hand in class and asking a question.   No question is too stupid to ask, so don't be afraid.    For every person who asks a question, there are probably many others to whom the same question has already arisen or will arise soon.    The answer to your question may benefit them as well.   In addition, there may be some people to whom your question did not occur.    By asking the question, you are helping them see a subtlety that they may have not seen before.   Direct email to the instructors will not be answered. 
 
-1. **Q:** When I preview my website locally everything looks great, but when I deploy it on GitHub bibliography Liquid tags are not recognized.
-   How do I fix this? <br>
-   **A:** GitHub Pages rendering does not support certain Jekyll plugins, and `jekyll-scholar` that we use to render bibliography is one of them. Please make sure you deploy your website to GitHub using `bin/deploy` script that circumvents the issue.
+At all times, we expect you to use your good judgement in your Piazza posts (questions as well as answers to the questions of fellow students).  Part of the learning process is struggling with the material until you arrive at the right insight for you to understand it. Posting too much detail in response to a request for assistance can impair learning. On the other hand, sometimes it's great to be nudged in the right direction when you're not able to get out of a rut. And, of course, misunderstandings of the assignment or tools available should be helped rapidly. Please use your best judgement when posting to the Piazza site, as if you were collaborating with your friends in person. A few rough guidelines:
 
-2. **Q:** When I deploy my fork of al-folio, it says `Deployed successfully!`
-   But when I open `<my-github-username>.github.io`, I get `Page not found (404)` error.
-   How do I fix this? <br>
-   **A:** For personal webpages, please run `bin/deploy --user`.
-   (See also relevant past issues: [#5](https://github.com/alshedivat/al-folio/issues/5), [#49](https://github.com/alshedivat/al-folio/issues/49), [#86](https://github.com/alshedivat/al-folio/issues/86).)
+Examples of good things to  post and answer: 
+* misunderstandings of the assignment
+* clarifications about the requirements
+* bugs in the assignment spec or reference implementation or tests
+* small, detailed questions about the operation of system calls, functions, etc. 
+* things that look like they'd go in an FAQ for the assignment
 
+Examples of bad things to post or answer: 
+* more than a few lines of code
+* in-depth explanations of how your system works
+* questions about the best approach for architecting the system at a high level
+* questions about your grade
 
-## License
+We expect you to have made reasonable effort to think for yourself before posting a piazza question.  This is especially true with respect to debugging your code.   Did you try the man pages?   Did you do a Google search for possibly relevant resources?   Did you look at the previous questions people have already asked, and at the answers provided?    Did you insert printf's and try to understand what is going on with your code?
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+Don't use autolab as a debugging tool.  We expect you to have made reasonable effort to get your code debugged before submitting to autolab.   Creating test cases and stress testing your code is part of what a project is all about.   Without putting in that effort, you are missing an important part of the learning opportunity in the course.    Submission to autolab should be the last step of a process in which you have tested, debugged and improved your code to the furthest extent of your abilities.   Sending an autolab dump in a piazza post and saying "please help" is an egregious violation of piazza etiquette.
 
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
+**Private posts on Piazza are not supported.**     This is a policy decision for this class.   Remember, posting on piazza is similar to raising your hand and asking a question.    Other students benefit from your asking the question, and seeing the instructors' reply.   We do allow  your posts to be anonymous to fellow students, if you so choose.  That is already  a degree of privacy beyond what is possible when asking a question in class.      For  the genuinely rare occasions when you need to make a private request that is not related to course content,  a special private mailing list has been created.  
+
+**For requests that truly need to be private:** send email to `15-440-student-private@lists.andrew.cmu.edu` and one of the instructors will reply.   Email to this list involving course content (e.g., clarifications  to class material) will be ignored; you should be posting such questions on Piazza.
+
+### Policy on Late Submissions
+
+For projects:
+
+* Each student will have five late days to use throughout the semester. These late days are intended to account for holidays, travel, interviews, a cold, and other similar situations. You are free to use them for any reason, without asking for permission from instructors. You may use at most two late days on any one due date (i.e., for projects with multiple checkpoints, you can use up to two late days for each checkpoint).  Late days will be automatically applied in chronological order, so you cannot chose to defer use of a late day for a higher weight future assignment.
+
+* One late day = (0,24] hours past the due date; two late days = (24, 48] hours past the due date; etc.   
+
+* If you use all of your late days, you may submit late for a 15% penalty per day, for up to two days. In other words, if you have used up all your late days, you may still submit for the next two days, incurring a 15% penalty for each of those days (grace days).
+
+* You cannot combine late days and grace days to submit more than two days late.
+
+For problem sets: **No late submissions are accepted, with or without penalty.  Make sure you submit on time.**
+
+### Style Guide for Projects
+
+In addition to testing your code's functionality, we will also be reserving a portion of each project's points for its style and readability. The most important thing is a consistent and legible style. We are mostly looking to see that you chose a style that is readable and reasonable, and that you use the same style consistently throughout a project.
+Use common sense: don't have 500-character lines of code, don't name your variables foo (unless that make sense in its context), and avoid mixing case conventions randomly.
+
+We will be looking for the following things:
+
+* Documentation:  Good documentation is important: for yourself in the future, for other maintainers of the code, and in this context, for the graders who will be looking at your code. Don't feel the need to document every line of code (as good code should also be self-documenting in a sense), but it is usually good to highlight the general usage and purpose of each function, as well as large or complex blocks of code. It is also good practice to include a file header in each file, detailing how that file fits into the structure of the project as a whole.
+
+* White-space:  Please be consistent. Please don't use tab 2 spaces some places then 4 in others. Be reasonable and use white-space to ensure your code is legible.
+
+* Line Length:  We will be reasonable about line length, as long as you are consistent and your line limits are reasonable (500 characters is not... 80 or 120 characters is commonly used and accepted).
+
+* Variable  Names: Your variable names should give a clear indication of what they represent or their usage case.
+
+* Dead/Test Code:  Try not to submit code that is littered with debug print statements or large commented chunks of code. It decreases readability and distracts from the code that will actually run in production.
+
+* Design:   Try to design your code and projects in such a way that it is reasonably modular. 5000-line functions are generally a sign of poor design and will give you headaches later.
+
+Here is a [Google style guide](https://code.google.com/p/google-styleguide/) that may be helpful.
+
+### Wellbeing
+
+Here are some [tips for wellbeing](wellbeing/index.html).

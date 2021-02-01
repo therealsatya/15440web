@@ -7,3 +7,13 @@ _site
 .tweet-cache/
 Gemfile.lock
 vendor
+assets/img
+assets/bibliography
+assets/pdf
+_bibliography
+bin
+blog
+_data
+_news
+_posts
+
