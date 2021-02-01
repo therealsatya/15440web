@@ -60,8 +60,8 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 
 | Name | Office Hours | Office | Phone | Andrew email |
 |------|--------------|--------|-------|--------------|
-| [Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:00 - 3:00 pm |GHC-9123|x8-3743|satya|
-| [Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm|GHC-9232||pspillai|
+|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:00 - 3:00 pm |GHC-9123|x8-3743|satya|
+|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm|GHC-9232||pspillai|
 |[Runting Shi](https://www.cylab.cmu.edu/directory/bios/shi-elaine.html) (Elaine)|Mon 4:00 - 6:00 pm |CIC-2217||rshi|
 
 ### Teaching Assistants
