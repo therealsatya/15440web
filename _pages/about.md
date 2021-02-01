@@ -24,9 +24,9 @@ The major themes this course will teach include:
 * Abstraction and modularity
 * Imperfect communication and other types of failure
 * Protection from accidental and malicious harm
-* Pptimism
+* Optimism
 * Consensus
-* Use of instrumentation, monitoring, and debugging tools in problem solving. 
+* Use of instrumentation, monitoring, and debugging tools in problem solving.
 * Design, implementation, and debugging of substantial programming projects that span the above themes
 
 ## Grading
@@ -76,7 +76,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 
 6. Common programming paradigms such as Map-Reduce, MPI and GraphLab
 
-7. *(Only if time permits)*: 
+7. *(Only if time permits)*:
    * Achieving high availability: voting-based preservation of one-copy semantics
    * Taxonomy of replication strategies: pessimistic and optimistic approaches
    * Read-write and write-write conflicts
@@ -117,7 +117,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 
 ### Lectures
 
-* Tuesdays and Thursdays, 10:40 am &mdash; 12:00 noon 
+* Tuesdays and Thursdays, 10:40 am &mdash; 12:00 noon
 * Zoom links and video recordings: [On Canvas page for this course](https://canvas.cmu.edu/courses/22255)
 * No class:   Tuesday Februrary 23 (Break Day), Thursday April 15 (Spring Carnival)
 * Last class: Thursday, May 6
@@ -128,7 +128,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 * Time:  Wednesdays  7:00 &mdash; 7:50pm (Section A), 8:00 &mdash; 8:50pm (Section B)
 * Zoom links and video recordings:  [On Canvas page for this course](https://canvas.cmu.edu/courses/22255)
 
-### Course Notes 
+### Course Notes
 
 Will be placed in the course AFS area at:  `/afs/andrew/course/15/440/classnotes`  after each class.
 These notes are for your personal use only.   Please do not distribute them.
@@ -152,17 +152,17 @@ Because this course has a big project component, you must be proficient in C and
 
 ### Policy on Academic Integrity
 
-The [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html) applies to this course.    All students are expected to carefully review this policy and to adhere to it for all aspects of this course.  
+The [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html) applies to this course.    All students are expected to carefully review this policy and to adhere to it for all aspects of this course.
 
 Guidance on Collaboration:
-* Students are encouraged to talk to each other, to the TAs, to the instructors, or to anyone else about any of the assignments. Any assistance, though, must be limited to discussion of the problem and sketching general approaches to a solution. 
+* Students are encouraged to talk to each other, to the TAs, to the instructors, or to anyone else about any of the assignments. Any assistance, though, must be limited to discussion of the problem and sketching general approaches to a solution.
 * Each student must write out his or her own solutions to problem sets.  All  projects must be done individually.
-* Consulting another student's solution is prohibited, and submitted solutions may not be copied from any source. These actions constitute cheating. 
+* Consulting another student's solution is prohibited, and submitted solutions may not be copied from any source. These actions constitute cheating.
 * If you have any question about whether some activity would constitute cheating, please feel free to ask the instructors.
 
 Guidance on Sharing: You may not supply work that you complete during 15-440 to other students in future instances of this course or for use in future instances of this course (just as you may not use work completed by students who've taken the course previously).
 
-### Recordings 
+### Recordings
 
 For Spring 2021, Zoom sessions of each lecture and recitation will be recorded by CMU Computing Services and posted to the [Canvas page for this course](https://canvas.cmu.edu/courses/22255).  **All other recordings are prohibited.**
 
@@ -171,21 +171,21 @@ For Spring 2021, Zoom sessions of each lecture and recitation will be recorded b
 To be fair to everyone, especially when there is a long line of students waiting for a TA's attention,  there will be a limit of 10 minutes on all consultations.  If a student is not done at the end of 10 minutes, he/she goes back to the end of the line before getting more time with the TA.  Be prepared before you meet with a TA.  If you need help finding a bug, narrow and simplify the problem down in advance of meeting with the TA.
 
 ### Piazza Policy
- 
-This course uses the Piazza website for answering questions: [here is the Piazza page for this course](https://piazza.com/cmu/spring2021/15440/home). 
 
-Think of piazza as raising your hand in class and asking a question.   No question is too stupid to ask, so don't be afraid.    For every person who asks a question, there are probably many others to whom the same question has already arisen or will arise soon.    The answer to your question may benefit them as well.   In addition, there may be some people to whom your question did not occur.    By asking the question, you are helping them see a subtlety that they may have not seen before.   Direct email to the instructors will not be answered. 
+This course uses the Piazza website for answering questions: [here is the Piazza page for this course](https://piazza.com/cmu/spring2021/15440/home).
+
+Think of piazza as raising your hand in class and asking a question.   No question is too stupid to ask, so don't be afraid.    For every person who asks a question, there are probably many others to whom the same question has already arisen or will arise soon.    The answer to your question may benefit them as well.   In addition, there may be some people to whom your question did not occur.    By asking the question, you are helping them see a subtlety that they may have not seen before.   Direct email to the instructors will not be answered.
 
 At all times, we expect you to use your good judgement in your Piazza posts (questions as well as answers to the questions of fellow students).  Part of the learning process is struggling with the material until you arrive at the right insight for you to understand it. Posting too much detail in response to a request for assistance can impair learning. On the other hand, sometimes it's great to be nudged in the right direction when you're not able to get out of a rut. And, of course, misunderstandings of the assignment or tools available should be helped rapidly. Please use your best judgement when posting to the Piazza site, as if you were collaborating with your friends in person. A few rough guidelines:
 
-Examples of good things to  post and answer: 
+Examples of good things to  post and answer:
 * Misunderstandings of the assignment
 * Clarifications about the requirements
 * Bugs in the assignment spec or reference implementation or tests
-* Small, detailed questions about the operation of system calls, functions, etc. 
+* Small, detailed questions about the operation of system calls, functions, etc.
 * Things that look like they'd go in an FAQ for the assignment
 
-Examples of bad things to post or answer: 
+Examples of bad things to post or answer:
 * More than a few lines of code
 * In-depth explanations of how your system works
 * Questions about the best approach for architecting the system at a high level
@@ -195,7 +195,7 @@ We expect you to have made reasonable effort to think for yourself before postin
 
 Don't use autolab as a debugging tool.  We expect you to have made reasonable effort to get your code debugged before submitting to autolab.   Creating test cases and stress testing your code is part of what a project is all about.   Without putting in that effort, you are missing an important part of the learning opportunity in the course.    Submission to autolab should be the last step of a process in which you have tested, debugged and improved your code to the furthest extent of your abilities.   Sending an autolab dump in a piazza post and saying "please help" is an egregious violation of piazza etiquette.
 
-**Private posts on Piazza are not supported.**     This is a policy decision for this class.   Remember, posting on piazza is similar to raising your hand and asking a question.    Other students benefit from your asking the question, and seeing the instructors' reply.   We do allow  your posts to be anonymous to fellow students, if you so choose.  That is already  a degree of privacy beyond what is possible when asking a question in class.      For  the genuinely rare occasions when you need to make a private request that is not related to course content,  a special private mailing list has been created.  
+**Private posts on Piazza are not supported.**     This is a policy decision for this class.   Remember, posting on piazza is similar to raising your hand and asking a question.    Other students benefit from your asking the question, and seeing the instructors' reply.   We do allow  your posts to be anonymous to fellow students, if you so choose.  That is already  a degree of privacy beyond what is possible when asking a question in class.      For  the genuinely rare occasions when you need to make a private request that is not related to course content,  a special private mailing list has been created.
 
 For requests that truly need to be private
 : send email to `15-440-student-private@lists.andrew.cmu.edu` and one of the instructors will reply.   Email to this list involving course content (e.g., clarifications  to class material) will be ignored; you should be posting such questions on Piazza.
@@ -206,7 +206,7 @@ For projects:
 
 * Each student will have five late days to use throughout the semester. These late days are intended to account for holidays, travel, interviews, a cold, and other similar situations. You are free to use them for any reason, without asking for permission from instructors. You may use at most two late days on any one due date (i.e., for projects with multiple checkpoints, you can use up to two late days for each checkpoint).  Late days will be automatically applied in chronological order, so you cannot chose to defer use of a late day for a higher weight future assignment.
 
-* One late day = (0,24] hours past the due date; two late days = (24, 48] hours past the due date; etc.   
+* One late day = (0,24] hours past the due date; two late days = (24, 48] hours past the due date; etc.
 
 * If you use all of your late days, you may submit late for a 15% penalty per day, for up to two days. In other words, if you have used up all your late days, you may still submit for the next two days, incurring a 15% penalty for each of those days (grace days).
 
