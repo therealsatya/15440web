@@ -2,14 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Distributed Systems
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  An introductory course on the techniques for creating functional, usable, and scalable distributed systems.
 footer_text: >
- 
+
 url:  https://www.andrew.cmu.edu # the base hostname & protocol for your site
 baseurl: /course/15-440 # /al-folio the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
+
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -93,7 +94,7 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor]
+exclude: [vendor, "Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Plug-ins
 plugins:
@@ -140,7 +141,7 @@ enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
 enable_tooltips:            false
-enable_darkmode:            true
+enable_darkmode:            false
 show_social_icons:          false
 
 # -----------------------------------------------------------------------------

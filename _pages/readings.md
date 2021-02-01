@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Readings
+title: readings
 permalink: /readings/
 description: Optional Course Readings
-nav: false
+nav: true
 ---
+
 1. "[End-to-End Arguments in System Design](../assets/READINGS/saltzer1984.pdf)"<br>
 Saltzer, J. H., Reed, D. P., Clark, D. D.<br>
 ACM Transactions on Computer Systems, Volume 2, Number 4, November 1984<br>
