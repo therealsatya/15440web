@@ -105,7 +105,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 |Timothy Ganger|Sat 4:00-6:00 pm|tganger|
 |Ziying He|Fri 5:00-7:00 pm|ziyingh|
 |Roger Iyengar|Wed 1:00-3:00 pm|raiyenga|
-|Ishaan Jaffer|Thu 2:00-4:00 pm|ijaffer|
+|Ishaan Jaffer|Thu 4:00-6:00 pm|ijaffer|
 |Ibnul Jahan|Tue 4:00-6:00 pm|iej|
 |Chen Jin (Crystal)|Fri 8:00-10:00|chenj|
 |Yajin Li|Mon 10:00-12:00 pm|yajinl|
