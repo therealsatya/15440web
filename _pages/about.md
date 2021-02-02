@@ -92,7 +92,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 |------|--------------|--------|-------|--------------|
 |[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:00 - 3:00 pm |GHC-9123|x8-3743|satya|
 |[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm|GHC-9232||pspillai|
-|[Runting Shi](https://www.cylab.cmu.edu/directory/bios/shi-elaine.html) (Elaine)|Mon 4:00 - 6:00 pm |CIC-2217||rshi|
+|[Runting Shi](https://www.cylab.cmu.edu/directory/bios/shi-elaine.html) (Elaine)|Mon 4:00 - 6:00 pm |CIC-2217||Contact through Canvas|
 
 ### Teaching Assistants
 
@@ -137,8 +137,8 @@ These notes are for your personal use only.   Please do not distribute them.
 
 There are no required textbooks.   Here are three good references to use for optional reading:
 
-* "Distributed Systems: Principles and Paradigms"   by Andrew S. Tanenbaum and Maarten Van Steen, Third (2017) Edition, Prentice Hall
-* "Guide to Reliable Distributed Systems"  by Kenneth P. Birman, Springer
+* "Distributed Systems: Principles and Paradigms" by Andrew S. Tanenbaum and Maarten Van Steen, Third (2017) Edition, Prentice Hall
+* "Guide to Reliable Distributed Systems" by Kenneth P. Birman, Springer
 * [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net) by Elaine Shi (2020, Book manuscript)
 
 In addition, the "Readings" link at the top of this web page has some specifc optional readings that we will mention at  different points in the lectures.  The pdf's of these optional  readings are available on this course website.
@@ -193,12 +193,12 @@ Examples of bad things to post or answer:
 
 We expect you to have made reasonable effort to think for yourself before posting a piazza question.  This is especially true with respect to debugging your code.   Did you try the man pages?   Did you do a Google search for possibly relevant resources?   Did you look at the previous questions people have already asked, and at the answers provided?    Did you insert printf's and try to understand what is going on with your code?
 
-Don't use autolab as a debugging tool.  We expect you to have made reasonable effort to get your code debugged before submitting to autolab.   Creating test cases and stress testing your code is part of what a project is all about.   Without putting in that effort, you are missing an important part of the learning opportunity in the course.    Submission to autolab should be the last step of a process in which you have tested, debugged and improved your code to the furthest extent of your abilities.   Sending an autolab dump in a piazza post and saying "please help" is an egregious violation of piazza etiquette.
+Don't use autolab as a debugging tool. We expect you to have made reasonable effort to get your code debugged before submitting to autolab.   Creating test cases and stress testing your code is part of what a project is all about.   Without putting in that effort, you are missing an important part of the learning opportunity in the course.    Submission to autolab should be the last step of a process in which you have tested, debugged and improved your code to the furthest extent of your abilities.   Sending an autolab dump in a piazza post and saying "please help" is an egregious violation of piazza etiquette.
 
-**Private posts on Piazza are not supported.**     This is a policy decision for this class.   Remember, posting on piazza is similar to raising your hand and asking a question.    Other students benefit from your asking the question, and seeing the instructors' reply.   We do allow  your posts to be anonymous to fellow students, if you so choose.  That is already  a degree of privacy beyond what is possible when asking a question in class.      For  the genuinely rare occasions when you need to make a private request that is not related to course content,  a special private mailing list has been created.
+**Private posts on Piazza are not supported.** This is a policy decision for this class. Remember, posting on piazza is similar to raising your hand and asking a question.    Other students benefit from your asking the question, and seeing the instructors' reply.   We do allow  your posts to be anonymous to fellow students, if you so choose.  That is already  a degree of privacy beyond what is possible when asking a question in class.      For  the genuinely rare occasions when you need to make a private request that is not related to course content,  a special private mailing list has been created.
 
 For requests that truly need to be private
-: send email to `15-440-student-private@lists.andrew.cmu.edu` and one of the instructors will reply.   Email to this list involving course content (e.g., clarifications  to class material) will be ignored; you should be posting such questions on Piazza.
+: Send email to `15-440-student-private@lists.andrew.cmu.edu` and one of the instructors will reply.   Email to this list involving course content (e.g., clarifications  to class material) will be ignored; you should be posting such questions on Piazza.
 
 ### Policy on Late Submissions
 
