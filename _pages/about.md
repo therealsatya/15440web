@@ -9,7 +9,7 @@ social: false
 ---
 
 # 15-440/640 Distributed Systems
-**Spring 2021**
+##### Spring 2021
 
 ## Overview
 
