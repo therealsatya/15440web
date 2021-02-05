@@ -99,7 +99,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 
 | Name |  Office Hours |Andrew email|
 |------|---------------|------------|
-|Nathan Ang|Thu 6:00-8:00 pm|nathanan|
+|Nathan Ang|Thu 2:00-4:00 pm|nathanan|
 |Junwon Chang (Joseph)|Sat 9:00-11:00 am|junwonc|
 |Wenxin Ding (Freda)|Fri 10:00-12:00|wenxind|
 |Timothy Ganger|Sat 4:00-6:00 pm|tganger|
