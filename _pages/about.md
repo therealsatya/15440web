@@ -202,17 +202,22 @@ For requests that truly need to be private
 
 ### Policy on Late Submissions
 
-For projects:
-
-* Each student will have five late days to use throughout the semester. These late days are intended to account for holidays, travel, interviews, a cold, and other similar situations. You are free to use them for any reason, without asking for permission from instructors. You may use at most two late days on any one due date (i.e., for projects with multiple checkpoints, you can use up to two late days for each checkpoint).  Late days will be automatically applied in chronological order, so you cannot chose to defer use of a late day for a higher weight future assignment.
-
+For projects
+: * Each student will have five late days to use throughout the semester. These late days are intended to account for holidays, travel, interviews, a cold, and other similar situations. You are free to use them for any reason, without asking for permission from instructors. You may use at most two late days on any one due date (i.e., for projects with multiple checkpoints, you can use up to two late days for each checkpoint).  Late days will be automatically applied in chronological order, so you cannot chose to defer use of a late day for a higher weight future assignment.
 * One late day = (0,24] hours past the due date; two late days = (24, 48] hours past the due date; etc.
-
 * If you use all of your late days, you may submit late for a 15% penalty per day, for up to two days. In other words, if you have used up all your late days, you may still submit for the next two days, incurring a 15% penalty for each of those days (grace days).
-
 * You cannot combine late days and grace days to submit more than two days late.
 
-For problem sets: **No late submissions are accepted, with or without penalty.  Make sure you submit on time.**
+For problem sets
+: No late submissions are accepted, with or without penalty.
+**Make sure you submit on time.**
+
+### Submitting Projects
+
+Your grade for a project checkpoint will come from the last version that you
+submit to Autolab. You cannot use a grade from an earlier submission instead.
+Autolab lists a version threshold for each project. Each version you submit
+above this threshold will decrease your score by 10%.
 
 ### Style Guide for Projects
 
@@ -239,7 +244,8 @@ Dead/Test Code
 Design
 : Try to design your code and projects in such a way that it is reasonably modular. 5000-line functions are generally a sign of poor design and will give you headaches later.
 
-Here is a [Google style guide](https://code.google.com/p/google-styleguide/) that may be helpful.
+Here is a [set of style guides](https://google.github.io/styleguide/) from
+Google that may be helpful.
 
 ### Wellbeing
 
