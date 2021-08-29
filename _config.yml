@@ -94,7 +94,7 @@ kramdown:
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor, "Gemfile", "Gemfile.lock", "LICENSE", "publish_site.sh"]
+exclude: [vendor, "Gemfile", "Gemfile.lock", "LICENSE", "publish_changes.sh"]
 
 # Plug-ins
 plugins:
