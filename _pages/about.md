@@ -29,25 +29,6 @@ The major themes this course will teach include:
 * Use of instrumentation, monitoring, and debugging tools in problem solving.
 * Design, implementation, and debugging of substantial programming projects that span the above themes
 
-## Grading
-
-All coursework is done individually. There are no teams or project
-partners.  For Spring 2022, assuming that classes will resume in
-person after the initial two-week period, we will have a mid-term exam
-and a final exam.  The overall course grade will be determined as follows
-(all weights approximate, within a 5% range):
-* 45% for 4 projects, equally weighted
-* 20% for 4 problem sets, equally weighted
-* 15% for mid-semester exam
-* 20% for final exam
-
-It is possible that, counter to current expectations, in-person
-classes are not resumed or are further delayed beyond the initial two
-weeks.  If that happens, the two exams will be replaced by cumulative
-problem sets.  These are like open-book exams, but without the time
-pressure.  As their name implies, they include all the material
-covered in class up to that point.  We will, of course, announce this
-in class.
 
 
 ## Learning Outcomes
@@ -94,6 +75,25 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 
 7. Common programming paradigms such as Map-Reduce, MPI and GraphLab
 
+## Grading
+
+All coursework is done individually. There are no teams or project
+partners.  For Spring 2022, assuming that classes will resume in
+person after the initial two-week period, we will have a mid-term exam
+and a final exam.  The overall course grade will be determined as follows
+(all weights approximate, within a 5% range):
+* 45% for 4 projects, equally weighted
+* 20% for 4 problem sets, equally weighted
+* 15% for mid-semester exam
+* 20% for final exam
+
+It is possible that, counter to current expectations, in-person
+classes are not resumed or are further delayed beyond the initial two
+weeks.  If that happens, the two exams will be replaced by cumulative
+problem sets.  These are like open-book exams, but without the time
+pressure.  As their name implies, they include all the material
+covered in class up to that point.  We will, of course, announce this
+in class.
 
 ## Course Logistics
 
@@ -125,10 +125,10 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 
 ### Lectures
 
-* Tuesdays and Thursdays, 10:10 &mdash; 11:30 am GHC 4401 (Rashid Auditorium)
+* Tuesdays and Thursdays, 10:10 &mdash; 11:30 am in GHC 4401 (Rashid Auditorium)
 * For first two weeks, Zoom links and video recordings: [On Canvas page for this course](https://canvas.cmu.edu/courses/27800)
-* No class:   Tuesday Februrary 23 (Break Day), Thursday April 15 (Spring Carnival)
-* Last class: Thursday, May 6
+* No class:   Tuesday, March 8 and Thursday, March 11 (Spring Break), Thursday April 7 (Spring Carnival)
+* Last class: Thursday, April 28
 
 
 ### Recitations
@@ -175,14 +175,16 @@ The [Carnegie Mellon University Policy on Academic Integrity](https://www.cmu.ed
 Guidance on Collaboration:
 * Students are encouraged to talk to each other, to the TAs, to the instructors, or to anyone else about any of the assignments. Any assistance, though, must be limited to discussion of the problem and sketching general approaches to a solution.
 * Each student must write out his or her own solutions to problem sets.  All  projects must be done individually.
-* Consulting another student's solution is prohibited, and submitted solutions may not be copied from any source. These actions constitute cheating.
+* Consulting another student's solution is prohibited, and submitted solutions may not be copied in whole or part from any source. These include web sources as well as solutions submitted by students in previous years.  These actions constitute cheating.  **<span style="color: crimson">We will be using plagiarism detection software to bring to our attention possible academic integrity violations.  Do not risk penalization.</span>**
 * If you have any question about whether some activity would constitute cheating, please feel free to ask the instructors.
 
 Guidance on Sharing: You may not supply work that you complete during 15-440 to other students in future instances of this course or for use in future instances of this course (just as you may not use work completed by students who've taken the course previously).
 
 ### Recordings
 
-For Spring 2021, Zoom sessions of each lecture and recitation will be recorded by CMU Computing Services and posted to the [Canvas page for this course](https://canvas.cmu.edu/courses/22255).  **All other recordings are prohibited.**
+Lectures and recitations that are presented via Zoom, rather than in-person, will be recorded. These will be posted on [the Canvas page for his course](https://canvas.cmu.edu/courses/27800).  
+
+Student recordings of live lectures or recitations are prohibited.
 
 ### Limit on Using TA time
 
