@@ -9,7 +9,7 @@ social: false
 ---
 
 # 15-440/640 Distributed Systems
-##### Spring 2021
+##### Spring 2022
 
 ## Overview
 
@@ -31,11 +31,23 @@ The major themes this course will teach include:
 
 ## Grading
 
-All coursework is done individually. There are no teams or project partners.  For in-person offerings of this course (pre-COVID and, hopefully, post-COVID) the evaluation was based on projects (45%), problem sets (20%), mid-term exam (15%), and final exam (20%).  For the Spring 2021 offering of the course, because of COVID constraints, the exams are replaced by *cumulative problem sets.*  These are like open-book exams, but without the time pressure.  As their name implies, they include all the material covered in class  up to that point.  We refer to the other problem sets as *topical problem sets* since they focus on topics.  So the Spring 2021 evaluation will be as follows (all weights approximate, within a 5% range):
+All coursework is done individually. There are no teams or project
+partners.  For Spring 2022, assuming that classes will resume in
+person after the initial two-week period, we will have a mid-term exam
+and a final exam.  The overall course grade will be determined as follows
+(all weights approximate, within a 5% range):
 * 45% for 4 projects, equally weighted
-* 20% for 4 topical problem sets, equally weighted
-* 15% for mid-semester cumulative problem set
-* 20% for final cumulative problem set.
+* 20% for 4 problem sets, equally weighted
+* 15% for mid-semester exam
+* 20% for final exam
+
+It is possible that, counter to current expectations, in-person
+classes are not resumed or are further delayed beyond the initial two
+weeks.  If that happens, the two exams will be replaced by cumulative
+problem sets.  These are like open-book exams, but without the time
+pressure.  As their name implies, they include all the material
+covered in class up to that point.  We will, of course, announce this
+in class.
 
 
 ## Learning Outcomes
@@ -68,21 +80,20 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
    * Nested transactions
    * Distributed transactions
 
-5. * Consensus and blockchain: unanimity (two-phase commit)
+5. * Consensus in distributed systems
+   * Unanimity (two-phase commit)
    * Majority (leader election, Paxos)
-   * Byzantine (single-shot and Dolev-Strong)
-   * State machine replication and Streamlet
-   * Bitcoin
+   * Blockchain
 
-6. Common programming paradigms such as Map-Reduce, MPI and GraphLab
-
-7. *(Only if time permits)*:
-   * Achieving high availability: voting-based preservation of one-copy semantics
+6. * Achieving high availability: replication and one-copy semantics
    * Taxonomy of replication strategies: pessimistic and optimistic approaches
-   * Read-write and write-write conflicts
+   * Voting
    * Server-client and peer-to-peer strategies
    * Caching and disconnected operation; resolving conflicts
    * Exploiting low bandwidth to improve availability
+
+7. Common programming paradigms such as Map-Reduce, MPI and GraphLab
+
 
 ## Course Logistics
 
@@ -90,35 +101,32 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 
 | Name | Office Hours | Office | Phone | Andrew email |
 |------|--------------|--------|-------|--------------|
-|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:00 - 3:00 pm |GHC-9123|x8-3743|satya|
-|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm|GHC-9232||pspillai|
-|[Runting Shi](https://www.cylab.cmu.edu/directory/bios/shi-elaine.html) (Elaine)|Mon 4:00 - 6:00 pm |CIC-2217||Contact through Canvas|
+|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:30 - 3:30 pm |GHC-9123|x8-3743|satya|
+|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 10:00 am - 12:00 pm|GHC-9127||pspillai|
 
 ### Teaching Assistants
 
 
 | Name |  Office Hours |Andrew email|
 |------|---------------|------------|
-|Nathan Ang|Thu 2:00-4:00 pm|nathanan|
-|Junwon Chang (Joseph)|Sat 9:00-11:00 am|junwonc|
-|Wenxin Ding (Freda)|Fri 10:00-12:00|wenxind|
-|Timothy Ganger|Sat 4:00-6:00 pm|tganger|
-|Ziying He|Fri 5:00-7:00 pm|ziyingh|
-|Roger Iyengar|Wed 1:00-3:00 pm|raiyenga|
-|Ishaan Jaffer|Thu 4:00-6:00 pm|ijaffer|
-|Ibnul Jahan|Tue 4:00-6:00 pm|iej|
-|Chen Jin (Crystal)|Fri 8:00-10:00|chenj|
-|Yajin Li|Mon 10:00-12:00 pm|yajinl|
-|Diego San Miguel|Fri 2:00-4:00 pm|dsanmigu|
-|Riccardo Santoni|Mon 8:00--10:00 pm|rsantoni|
-|Yiwen Song (Victor)|Thu 9:00-11:00 pm|yiwenson|
-|Haithem Turki|Wed 3:00-5:00 pm|hturki|
-|Clarissa Xu|Tue 6:30-8:30 pm|csxu|
+|Anup Agarwal|Fri 9:00-11:00 am|anupa|
+|Mihir Bala|Sun 11:00 am - 1:00 pm|mbala|
+|Anika Banga|Fri 1:30-3:30 pm|abanga|
+|Qifei Dong|Thu 4:00-6:00 pm|qifeid|
+|Siddharth Girdhar|Wed 2:30--4:30 pm|sgirdhar|
+|Ziying He (Lily)|Mon 3:00-5:00 pm|ziyingh|
+|Shantanu Kamath|Wed 12:00-2:00 pm|shantank|
+|Chengkai Li|Tue 7:00-9:00 pm|chengkail|
+|Jiaqi Liu|Fri 3:30-5:30 pm|jiaqiliu|
+|Rohit Pandey|Fri 5:30-7:30 pm|rohitp|
+|Sumanth Rao|Wed 4:30-6:30|ssr2|
+|Ashwin Srinivasan|Thu 2:00-4:00 pm|ashwins|
+|Clarissa Xu|Mon 5:00-7:00 pm|csxu|
 
 ### Lectures
 
-* Tuesdays and Thursdays, 10:40 am &mdash; 12:00 noon
-* Zoom links and video recordings: [On Canvas page for this course](https://canvas.cmu.edu/courses/22255)
+* Tuesdays and Thursdays, 10:10 &mdash; 11:30 am GHC 4401 (Rashid Auditorium)
+* For first two weeks, Zoom links and video recordings: [On Canvas page for this course](https://canvas.cmu.edu/courses/27800)
 * No class:   Tuesday Februrary 23 (Break Day), Thursday April 15 (Spring Carnival)
 * Last class: Thursday, May 6
 
@@ -126,7 +134,16 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 ### Recitations
 
 * Time:  Wednesdays  7:00 &mdash; 7:50pm (Section A), 8:00 &mdash; 8:50pm (Section B)
-* Zoom links and video recordings:  [On Canvas page for this course](https://canvas.cmu.edu/courses/22255)
+* For first two weeks, Zoom links and video recordings:  [On Canvas page for this course](https://canvas.cmu.edu/courses/27800)
+
+### Office Hours
+
+Satya's office hours will be held in his office (GHC 9123).
+
+All other office hours will be held at the GHC 5th Floor Commons Area, Table #6.
+
+For the first two weeks, the Zoom link for all office hours can be found
+on [the Canvas page for this course](https://canvas.cmu.edu/courses/27800).
 
 ### Course Notes
 
@@ -135,10 +152,11 @@ These notes are for your personal use only.   Please do not distribute them.
 
 ### Textbooks and Optional Readings
 
-There are no required textbooks.   Here are three good references to use for optional reading:
+There are no required textbooks.   Here are four references that go beyond what is taught in class:
 
 * "Distributed Systems: Principles and Paradigms" by Andrew S. Tanenbaum and Maarten Van Steen, Third (2017) Edition, Prentice Hall
 * "Guide to Reliable Distributed Systems" by Kenneth P. Birman, Springer
+* "Distributed Algorithms" by Nancy Lynch, Elsevier (Imprint: Morgan Kaufman)
 * [Foundations of Distributed Consensus and Blockchains](https://www.distributedconsensus.net) by Elaine Shi (2020, Book manuscript)
 
 In addition, the "Readings" link at the top of this web page has some specifc optional readings that we will mention at  different points in the lectures.  The pdf's of these optional  readings are available on this course website.
