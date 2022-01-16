@@ -145,10 +145,14 @@ All other office hours will be held at the GHC 5th Floor Commons Area, Table #6.
 For the first two weeks, the Zoom link for all office hours can be found
 on [the Canvas page for this course](https://canvas.cmu.edu/courses/27800).
 
-### Course Notes
+### Slides from Lectures and Recitations
 
-Will be placed in the course AFS area at:  `/afs/andrew/course/15/440/classnotes`  after each class.
-These notes are for your personal use only.   Please do not distribute them.
+Will be placed in the course AFS area at:
+`/afs/andrew/course/15/440/classnotes` soon after each lecture and
+recitation. If you are authenticated at CMU, you can also access this
+AFS directory via the "slides" link at the top of this web page. These
+notes are for your personal use only.  Please do not distribute
+them. 
 
 ### Textbooks and Optional Readings
 
