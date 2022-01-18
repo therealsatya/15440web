@@ -112,7 +112,7 @@ in class.
 |Anup Agarwal|Fri 9:00-11:00 am|anupa|
 |Mihir Bala|Sun 11:00 am - 1:00 pm|mbala|
 |Anika Banga|Fri 1:30-3:30 pm|abanga|
-|Qifei Dong|Thu 4:00-6:00 pm|qifeid|
+|Qifei Dong|Thu 5:00-7:00 pm|qifeid|
 |Siddharth Girdhar|Wed 2:30--4:30 pm|sgirdhar|
 |Ziying He (Lily)|Mon 3:00-5:00 pm|ziyingh|
 |Shantanu Kamath|Wed 12:00-2:00 pm|shantank|
