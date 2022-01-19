@@ -116,7 +116,7 @@ in class.
 |Siddharth Girdhar|Wed 2:30--4:30 pm|sgirdhar|
 |Ziying He (Lily)|Mon 3:00-5:00 pm|ziyingh|
 |Shantanu Kamath|Wed 12:00-2:00 pm|shantank|
-|Chengkai Li|Tue 7:00-9:00 pm|chengkail|
+|Chengkai Li|Tue 4:00-6:00 pm|chengkal|
 |Jiaqi Liu|Fri 3:30-5:30 pm|jiaqiliu|
 |Rohit Pandey|Fri 5:30-7:30 pm|rohitp|
 |Sumanth Rao|Wed 4:30-6:30|ssr2|
