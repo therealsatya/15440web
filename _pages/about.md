@@ -9,13 +9,22 @@ social: false
 ---
 
 # 15-440/640 Distributed Systems
-##### Spring 2022
+##### Spring 2023
 
 ## Overview
 
-15-440 is an introductory course in distributed systems.  The emphasis will be on the techniques for creating functional, usable, and scalable distributed systems.  To make the issues more concrete, the class includes several multi-week projects requiring significant design and implementation
+15-440 is an introductory course in distributed systems.  The emphasis
+will be on the techniques for creating functional, usable, and
+scalable distributed systems.  To make the issues more concrete, the
+class includes several multi-week projects requiring significant
+design and implementation
 
-The goals of this course are twofold.  First, for students to gain an understanding of the principles and techniques behind the design of distributed systems, such as locking, concurrency, caching, prefetching, scheduling, and communication across the network.   Second, for students to gain practical experience designing, implementing, and debugging real distributed systems.
+The goals of this course are twofold.  First, for students to gain an
+understanding of the principles and techniques behind the design of
+distributed systems, such as locking, concurrency, caching,
+prefetching, scheduling, and communication across the network.
+Second, for students to gain practical experience designing,
+implementing, and debugging real distributed systems.
 
 The major themes this course will teach include:
 * Resource scarcity, scheduling, and concurrency
@@ -78,22 +87,13 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
 ## Grading
 
 All coursework is done individually. There are no teams or project
-partners.  For Spring 2022, assuming that classes will resume in
-person after the initial two-week period, we will have a mid-term exam
-and a final exam.  The overall course grade will be determined as follows
-(all weights approximate, within a 5% range):
+partners.  We will have a mid-term exam and a final exam.  The overall
+course grade will be determined as follows (all weights approximate,
+within a 5% range):
 * 45% for 4 projects, equally weighted
 * 20% for 4 problem sets, equally weighted
 * 15% for mid-semester exam
 * 20% for final exam
-
-It is possible that, counter to current expectations, in-person
-classes are not resumed or are further delayed beyond the initial two
-weeks.  If that happens, the two exams will be replaced by cumulative
-problem sets.  These are like open-book exams, but without the time
-pressure.  As their name implies, they include all the material
-covered in class up to that point.  We will, of course, announce this
-in class.
 
 ## Course Logistics
 
@@ -102,26 +102,27 @@ in class.
 | Name | Office Hours | Office | Phone | Andrew email |
 |------|--------------|--------|-------|--------------|
 |[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:30 - 3:30 pm |GHC-9123|x8-3743|satya|
-|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 10:00 am - 12:00 pm|GHC-9127||pspillai|
+|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm|GHC-9120||pspillai|
+|[Zack Weinberg](https://csd.cmu.edu/people/adjunct-faculty/zack-weinberg) (Zack)|Wed 2:00 pm - 4:00 pm|GHC-4124|x8-5434| zweinber|
 
 ### Teaching Assistants
 
 
 | Name |  Office Hours |Andrew email|
 |------|---------------|------------|
-|Anup Agarwal|Fri 9:00-11:00 am|anupa|
-|Mihir Bala|Sun 11:00 am - 1:00 pm|mbala|
-|Anika Banga|Fri 1:30-3:30 pm|abanga|
-|Qifei Dong|Thu 5:00-7:00 pm|qifeid|
-|Siddharth Girdhar|Wed 2:30--4:30 pm|sgirdhar|
-|Ziying He (Lily)|Mon 3:00-5:00 pm|ziyingh|
-|Shantanu Kamath|Wed 12:00-2:00 pm|shantank|
-|Chengkai Li|Tue 4:00-6:00 pm|chengkal|
-|Jiaqi Liu|Fri 3:30-5:30 pm|jiaqiliu|
-|Rohit Pandey|Fri 5:30-7:30 pm|rohitp|
-|Sumanth Rao|Wed 4:30-6:30|ssr2|
-|Ashwin Srinivasan|Thu 2:00-4:00 pm|ashwins|
-|Clarissa Xu|Mon 5:00-7:00 pm|csxu|
+|Michelle Shu Deng |Mon 3:00-5:00 pm|msdeng|
+|Sanah Salim Imani|Thu 2:00-4:00 pm|simani|
+|Fernando Lisboa|Sun 11:00 am - 1:00 pm|fdl|
+|Rohan Kanotra|Fri 5:30-7:30 pm|rkanotra|
+|Mehal Vasuki Kashyap|Wed 12:00-2:00 pm|mvkashya|
+|Yu Pan|Tue 4:00-6:00 pm|pany|
+|Haoyu Qi|Thu 5:00-7:00 pm|haoyuq|
+|Ryan Harris Santhoshkumar|Wed 4:30-6:30|rsanthos|
+|Deigant Yadava|Fri 9:00-11:00 am|dyadava|
+|Rachel Yuan|Fri 3:30-5:30 pm|rachely|
+|Junyi Zhang|Fri 1:30-3:30 pm|junyizha|
+|Yicheng Zhang|Mon 5:00-7:00 pm|yicheng4|
+|Jitong Zhou|Wed 2:30--4:30 pm|jitongz|
 
 ### Lectures
 
