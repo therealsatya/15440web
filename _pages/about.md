@@ -110,19 +110,19 @@ within a 5% range):
 
 | Name |  Office Hours |Andrew email|
 |------|---------------|------------|
-|Michelle Shu Deng |Mon 3:00-5:00 pm|msdeng|
-|Sanah Salim Imani|Thu 2:00-4:00 pm|simani|
-|Fernando Lisboa|Sun 11:00 am - 1:00 pm|fdl|
-|Rohan Kanotra|Fri 5:30-7:30 pm|rkanotra|
-|Mehal Vasuki Kashyap|Wed 12:00-2:00 pm|mvkashya|
-|Yu Pan|Tue 4:00-6:00 pm|pany|
-|Haoyu Qi|Thu 5:00-7:00 pm|haoyuq|
-|Ryan Harris Santhoshkumar|Wed 4:30-6:30|rsanthos|
-|Deigant Yadava|Fri 9:00-11:00 am|dyadava|
-|Rachel Yuan|Fri 3:30-5:30 pm|rachely|
-|Junyi Zhang|Fri 1:30-3:30 pm|junyizha|
-|Yicheng Zhang|Mon 5:00-7:00 pm|yicheng4|
-|Jitong Zhou|Wed 2:30--4:30 pm|jitongz|
+|Michelle Shu Deng |Mon 2:00-4:00 pm|msdeng|
+|Sanah Salim Imani|Sat 9:00-11:00 pm|simani|
+|Fernando Lisboa|Mon 12:00 pm - 2:00 pm|fdl|
+|Rohan Kanotra|Fri 9:30-11:30 am|rkanotra|
+|Mehal Vasuki Kashyap|Mon 4:00-6:00 pm|mvkashya|
+|Yu Pan|Fri 12:00-2:00 pm|pany|
+|Haoyu Qi|Thu 6:00-8:00 pm|haoyuq|
+|Ryan Harris Santhoshkumar|Mon 6:00-8:00 pm|rsanthos|
+|Deigant Yadava|Mon 4:00-6:00 pm|dyadava|
+|Rachel Yuan|Thu 4:00-6:00 pm|rachely|
+|Junyi Zhang|Fri 4:00-6:00 pm|junyizha|
+|Yicheng Zhang|Fri 6:00-8:00 pm|yicheng4|
+|Jitong Zhou|Wed 4:00-6:00 pm|jitongz|
 
 ### Lectures
 
