@@ -126,25 +126,24 @@ within a 5% range):
 
 ### Lectures
 
-* Tuesdays and Thursdays, 10:10 &mdash; 11:30 am in GHC 4401 (Rashid Auditorium)
-* For first two weeks, Zoom links and video recordings: [On Canvas page for this course](https://canvas.cmu.edu/courses/27800)
-* No class:   Tuesday, March 8 and Thursday, March 11 (Spring Break), Thursday April 7 (Spring Carnival)
-* Last class: Thursday, April 28
+* Tuesdays and Thursdays, 11:00 &mdash; 12:20 am in GHC 4401 (Rashid Auditorium)
+* No class:   Tuesday, March 7 and Thursday, March 9 (Spring Break), Thursday April 13 (Spring Carnival)
+* Last class: Thursday, April 27
 
 
 ### Recitations
 
-* Time:  Wednesdays  7:00 &mdash; 7:50pm (Section A), 8:00 &mdash; 8:50pm (Section B)
-* For first two weeks, Zoom links and video recordings:  [On Canvas page for this course](https://canvas.cmu.edu/courses/27800)
+* Wednesdays  7:00 &mdash; 7:50pm (Section A), 8:00 &mdash; 8:50pm (Section B)  (both sections held in DH A302)
 
 ### Office Hours
 
-Satya's office hours will be held in his office (GHC 9123).
+Satya's office hours will be held in GHC 9123.
 
-All other office hours will be held at the GHC 5th Floor Commons Area, Table #6.
+Babu's office hours will be held in ????
 
-For the first two weeks, the Zoom link for all office hours can be found
-on [the Canvas page for this course](https://canvas.cmu.edu/courses/27800).
+Zack's  office hours will be held in ????
+
+TA office hours will be held at the GHC 5th Floor Commons Area, Table #???.
 
 ### Slides from Lectures and Recitations
 
@@ -186,8 +185,6 @@ Guidance on Collaboration:
 Guidance on Sharing: You may not supply work that you complete during 15-440 to other students in future instances of this course or for use in future instances of this course (just as you may not use work completed by students who've taken the course previously).
 
 ### Recordings
-
-Lectures and recitations that are presented via Zoom, rather than in-person, will be recorded. These will be posted on [the Canvas page for his course](https://canvas.cmu.edu/courses/27800).  
 
 Student recordings of live lectures or recitations are prohibited.
 
