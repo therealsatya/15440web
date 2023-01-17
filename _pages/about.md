@@ -42,7 +42,7 @@ The major themes this course will teach include:
 
 ## Learning Outcomes
 We expect students to gain a deep understanding, fluency in reasoning, and hands-on implementation skills of the following core systems concepts in distributed systems:
-1. * Communication and remote procedure call
+1. Communication and remote procedure call
    * Control semantics and language limitations
    * Exactly-once, at-most-once, at-least-once
    * Serialization and de-serialization
@@ -50,7 +50,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
    * Integration with threading
    * Concurrency of operations
 
-2. * Data caching and one-copy semantics
+2. Data caching and one-copy semantics
    * Cache consistency protocols and implementation tradeoffs
    * Origins of temporaland spatial locality
    * Cache quality metrics
@@ -59,23 +59,25 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
    * Extraction of hints
    * Buffer bloat
 
-3. * Failures in distributed systems: origins and empirical studies
+3. Failures in distributed systems: origins and empirical studies
    * Fail fast and Byzantine failures
    * Fundamental limits of failure resilience
+   * Control loops and feedback
+   * Resilience under attack: channel security, authentication, authorization
 
-4. * Fault tolerance: atomic transactions; ACID property
+4. Fault tolerance: atomic transactions; ACID property
    * Implementation challenges
    * Shadowing, intentions lists and write-ahead logging
    * Tradeoffs in physical logging and operation logging
    * Nested transactions
    * Distributed transactions
 
-5. * Consensus in distributed systems
+5. Consensus in distributed systems
    * Unanimity (two-phase commit)
    * Majority (leader election, Paxos)
-   * Blockchain
+   * Distributed lotteries: proof-of-work, proof-of-stake, etc. (aka "blockchain")
 
-6. * Achieving high availability: replication and one-copy semantics
+6. Achieving high availability: replication and one-copy semantics
    * Taxonomy of replication strategies: pessimistic and optimistic approaches
    * Voting
    * Server-client and peer-to-peer strategies
@@ -83,6 +85,7 @@ We expect students to gain a deep understanding, fluency in reasoning, and hands
    * Exploiting low bandwidth to improve availability
 
 7. Common programming paradigms such as Map-Reduce, MPI and GraphLab
+
 
 ## Grading
 
@@ -99,26 +102,26 @@ within a 5% range):
 
 ### Professors
 
-| Name | Office Hours | Office | Phone | Andrew email |
+| Name | Office Hours | AndrewID |Phone |
 |------|--------------|--------|-------|--------------|
-|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:30 - 3:30 pm |GHC-9123|x8-3743|satya|
-|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm|GHC-9120||pspillai|
-|[Zack Weinberg](https://csd.cmu.edu/people/adjunct-faculty/zack-weinberg) (Zack)|Wed 2:00 pm - 4:00 pm|GHC-4124|x8-5434| zweinber|
+|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:30 - 3:30 pm @ GHC-9123|satya|x8-3743|
+|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm @ 5th Floor Commons|pspillai||
+|[Zack Weinberg](https://csd.cmu.edu/people/adjunct-faculty/zack-weinberg) (Zack)|Wed 2:00 pm - 4:00 pm @ GHC-4124|zweinber|x8-5434|
 
 ### Teaching Assistants
 
 
-| Name |  Office Hours |Andrew email|
+| Name |  Office Hours |AndrewID|
 |------|---------------|------------|
-|Michelle Shu Deng |Mon 2:00-4:00 pm|msdeng|
-|Sanah Salim Imani|Sat 9:00-11:00 pm|simani|
+|Michelle Deng |Mon 2:00-4:00 pm|msdeng|
+|Sanah Imani|Sat 9:00-11:00 pm|simani|
 |Fernando Lisboa|Mon 12:00 pm - 2:00 pm|fdl|
 |Rohan Kanotra|Fri 9:30-11:30 am|rkanotra|
-|Mehal Vasuki Kashyap|Mon 4:00-6:00 pm|mvkashya|
+|Mehal Kashyap|Mon 4:00-6:00 pm|mvkashya|
 |Yu Pan|Fri 12:00-2:00 pm|pany|
 |Haoyu Qi|Thu 6:00-8:00 pm|haoyuq|
-|Ryan Harris Santhoshkumar|Mon 6:00-8:00 pm|rsanthos|
-|Deigant Yadava|Mon 4:00-6:00 pm|dyadava|
+|Ryan Santhoshkumar|Mon 6:00-8:00 pm|rsanthos|
+|Deigant Yadava|Tue 4:00-6:00 pm|dyadava|
 |Rachel Yuan|Thu 4:00-6:00 pm|rachely|
 |Junyi Zhang|Fri 4:00-6:00 pm|junyizha|
 |Yicheng Zhang|Fri 6:00-8:00 pm|yicheng4|
@@ -137,13 +140,14 @@ within a 5% range):
 
 ### Office Hours
 
-Satya's office hours will be held in GHC 9123.
+TA office hours will be held in the GHC 5th Floor Commons
 
-Babu's office hours will be held in ????
+Satya's office hours will be held in GHC-9123.
 
-Zack's  office hours will be held in ????
+Babu's office hours will be held in 5th Floor Commons
 
-TA office hours will be held at the GHC 5th Floor Commons Area, Table #???.
+Zack's  office hours will be held in GHC-4124
+
 
 ### Slides from Lectures and Recitations
 
