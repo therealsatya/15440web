@@ -100,32 +100,36 @@ within a 5% range):
 
 ## Course Logistics
 
+[This Piazza table](https://piazza.com/class/lcpdqw1xz0c1s1/post/34)
+gives the up-to-date office hours of all instructors for this class. 
+The locations where their office hours will be held can also be found in that table.
+
 ### Professors
 
-| Name | Office Hours | AndrewID |Phone |
+| Name |AndrewID |Phone |
 |------|--------------|--------|-------|--------------|
-|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |Tue 1:30 - 3:30 pm @ GHC-9123|satya|x8-3743|
-|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|Wed 11:00 am - 1:00 pm @ 5th Floor Commons|pspillai||
-|[Zack Weinberg](https://csd.cmu.edu/people/adjunct-faculty/zack-weinberg) (Zack)|Wed 2:00 pm - 4:00 pm @ GHC-4124|zweinber|x8-5434|
+|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |satya|x8-3743|
+|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|pspillai||
+|[Zack Weinberg](https://csd.cmu.edu/people/adjunct-faculty/zack-weinberg) (Zack)|zweinber|x8-5434|
 
 ### Teaching Assistants
 
 
-| Name |  Office Hours |AndrewID|
+| Name |AndrewID|
 |------|---------------|------------|
-|Michelle Deng |Mon 2:00-4:00 pm|msdeng|
-|Sanah Imani|Sat 9:00-11:00 pm|simani|
-|Fernando Lisboa|Mon 12:00 pm - 2:00 pm|fdl|
-|Rohan Kanotra|Fri 9:30-11:30 am|rkanotra|
-|Mehal Kashyap|Mon 4:00-6:00 pm|mvkashya|
-|Yu Pan|Fri 12:00-2:00 pm|pany|
-|Haoyu Qi|Thu 6:00-8:00 pm|haoyuq|
-|Ryan Santhoshkumar|Mon 6:00-8:00 pm|rsanthos|
-|Deigant Yadava|Tue 4:00-6:00 pm|dyadava|
-|Rachel Yuan|Thu 4:00-6:00 pm|rachely|
-|Junyi Zhang|Fri 4:00-6:00 pm|junyizha|
-|Yicheng Zhang|Fri 6:00-8:00 pm|yicheng4|
-|Jitong Zhou|Wed 4:00-6:00 pm|jitongz|
+|Michelle Deng |msdeng|
+|Sanah Imani|simani|
+|Fernando Lisboa|fdl|
+|Rohan Kanotra|rkanotra|
+|Mehal Kashyap|mvkashya|
+|Yu Pan|pany|
+|Haoyu Qi|haoyuq|
+|Ryan Santhoshkumar|rsanthos|
+|Deigant Yadava|dyadava|
+|Rachel Yuan|rachely|
+|Junyi Zhang|junyizha|
+|Yicheng Zhang|yicheng4|
+|Jitong Zhou|jitongz|
 
 ### Lectures
 
