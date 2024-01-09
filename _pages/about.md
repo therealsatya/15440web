@@ -9,7 +9,7 @@ social: false
 ---
 
 # 15-440/640 Distributed Systems
-##### Spring 2023
+##### Spring 2024
 
 ## Overview
 
@@ -106,11 +106,11 @@ The locations where their office hours will be held can also be found in that ta
 
 ### Professors
 
-| Name |AndrewID |Phone |
+| Name | AndrewID | Office | Phone |
 |------|--------------|--------|-------|--------------|
-|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) |satya|x8-3743|
-|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)|pspillai||
-|[Zack Weinberg](https://csd.cmu.edu/people/adjunct-faculty/zack-weinberg) (Zack)|zweinber|x8-5434|
+|[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) | satya | GHC 9123 | x8-3743 |
+|[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)| pspillai | GHC 9120 ||
+|[Rashmi Vinayak](https://www.cs.cmu.edu/~rvinayak/) (Rashmi)| rvinayak | GHC 9011 | x8-5434 |
 
 ### Teaching Assistants
 
