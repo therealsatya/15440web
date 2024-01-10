@@ -116,26 +116,32 @@ The locations where their office hours will be held can also be found in that ta
 
 
 | Name |AndrewID|
-|------|---------------|------------|
-|Michelle Deng |msdeng|
-|Sanah Imani|simani|
-|Fernando Lisboa|fdl|
-|Rohan Kanotra|rkanotra|
-|Mehal Kashyap|mvkashya|
-|Yu Pan|pany|
-|Haoyu Qi|haoyuq|
+|------|---------------|
+|Vibha Arramreddy|varramre|
+|Aditya Chanana|achanana|
+|Qinghan Chen|qinghanc|
+|Cameron Chiu|cameron2|
+|Qifei Dong|qifeid|
+|Erin Gao|eringao|
+|Hanson Han|jiaheng2|
+|Roy Huang|rghuang|
+|Neelansh Kaabra|nkaabra|
+|Yumeng Liu|yumengli|
 |Ryan Santhoshkumar|rsanthos|
-|Deigant Yadava|dyadava|
-|Rachel Yuan|rachely|
-|Junyi Zhang|junyizha|
-|Yicheng Zhang|yicheng4|
-|Jitong Zhou|jitongz|
+|Hong Sng|hongsng|
+|Samhitha Srinivasan|samhiths|
+|Mahika Varma|mahikav|
+|David Wu|dswu|
+|Jimmy Zhou|jameszho|
+
+
+
 
 ### Lectures
 
 * Tuesdays and Thursdays, 11:00 &mdash; 12:20 am in GHC 4401 (Rashid Auditorium)
-* No class:   Tuesday, March 7 and Thursday, March 9 (Spring Break), Thursday April 13 (Spring Carnival)
-* Last class: Thursday, April 27
+* No class:   Tuesday, March 5 and Thursday, March 7 (Spring Break), Thursday April 11 (Spring Carnival)
+* Last class: Thursday, April 25
 
 
 ### Recitations
@@ -144,14 +150,9 @@ The locations where their office hours will be held can also be found in that ta
 
 ### Office Hours
 
-TA office hours will be held in the GHC 5th Floor Commons
+Faculty will hold office hours in their offices
 
-Satya's office hours will be held in GHC-9123.
-
-Babu's office hours will be held in 5th Floor Commons
-
-Zack's  office hours will be held in GHC-4124
-
+TAs will hold office hours in the GHC 5th Floor Commons
 
 ### Slides from Lectures and Recitations
 
@@ -194,7 +195,11 @@ Guidance on Sharing: You may not supply work that you complete during 15-440 to 
 
 ### Recordings
 
-Student recordings of live lectures or recitations are prohibited.
+The lectures or recitations will not be recorded.  This is an "IPE" (In-Person Expectation) class, and students are expected to attend in person.
+
+**<span style="color: crimson">Student recordings of live lectures or recitations are prohibited.</span>**
+
+
 
 ### Limit on Using TA time
 
