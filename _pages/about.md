@@ -100,7 +100,7 @@ within a 5% range):
 
 ## Course Logistics
 
-[This Piazza table](https://piazza.com/class/lcpdqw1xz0c1s1/post/34)
+[This Piazza table](https://piazza.com/class/lr76ew92gqh25f/post/7)
 gives the up-to-date office hours of all instructors for this class. 
 The locations where their office hours will be held can also be found in that table.
 
