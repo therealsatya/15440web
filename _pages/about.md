@@ -9,7 +9,7 @@ social: false
 ---
 
 # 15-440/640 Distributed Systems
-##### Spring 2024
+##### Spring 2025
 
 ## Overview
 
@@ -110,38 +110,31 @@ The locations where their office hours will be held can also be found in that ta
 |------|--------------|--------|-------|--------------|
 |[Mahadev Satyanarayanan](http://www.cs.cmu.edu/%7Esatya) (Satya) | satya | GHC 9123 | x8-3743 |
 |[Padmanabhan Pillai](https://www.andrew.cmu.edu/user/pspillai/) (Babu)| pspillai | GHC 9120 ||
-|[Rashmi Vinayak](https://www.cs.cmu.edu/~rvinayak/) (Rashmi)| rvinayak | GHC 9011 | x8-5434 |
 
 ### Teaching Assistants
 
 
 | Name |AndrewID|
 |------|---------------|
-|Vibha Arramreddy|varramre|
-|Aditya Chanana|achanana|
-|Qinghan Chen|qinghanc|
-|Cameron Chiu|cameron2|
-|Qifei Dong|qifeid|
-|Erin Gao|eringao|
-|Hanson Han|jiaheng2|
+|Sunny Guan|feiyangg|
+|Melody Hu|shinyuh|
 |Roy Huang|rghuang|
-|Neelansh Kaabra|nkaabra|
-|Yumeng Liu|yumengli|
-|Ryan Santhoshkumar|rsanthos|
-|Hong Sng|hongsng|
-|Samhitha Srinivasan|samhiths|
+|Ethan Kwong|ethankwo|
+|Zara Mansoor|zmansoor|
+|Monica Qiu|yuqiq|
+|Max Tang|mhtang|
 |Mahika Varma|mahikav|
-|David Wu|dswu|
+|Helen Wang|jingzhi3|
+|Michael Wang|songtinw|
+|Ruiqi Wang|ruiqiwan|
 |Jimmy Zhou|jameszho|
-
-
-
 
 ### Lectures
 
 * Tuesdays and Thursdays, 11:00 &mdash; 12:20 am in GHC 4401 (Rashid Auditorium)
-* No class:   Tuesday, March 5 and Thursday, March 7 (Spring Break), Thursday April 11 (Spring Carnival)
-* Last class: Thursday, April 25
+* Mid-Term exam (in-class): Thursday, Feb 20
+* No class:   Tuesday, March 4 and Thursday, March 6 (Spring Break), Thursday April 3 (Spring Carnival)
+* Last class: Thursday, April 24
 
 
 ### Recitations
