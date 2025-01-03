@@ -129,3 +129,11 @@ IEEE Transactions on Software Engineering, Vol. 9, No. 3, May 1983<br>
 31. "[Virtual Memory, Processes and Sharing in Multics](../assets/READINGS/daley1968.pdf)"<br>
 Daley, R.C., Dennis, J.B.<br>
 Communications of the ACM, Volume 11, Number 5, May 1968<br>
+
+32. "[FIFO can be Better than LRU: the Power of Lazy Promotion and Quick Demotion](../assets/READINGS/yang2023a.pdf)]"<br>
+Yang, J., Qiu, Z., Zhang, Y., Yue, Y.,  Rashmi, K. V.<br>
+Proceedings of the 19th Workshop on Hot Topics in Operating Systems, June 2023<br>
+
+33. "[FIFO Queues Are All You Need For Cache Eviction](../assets/READINGS/yang2023b.pdf)]"<br>
+Yang, J., Qiu, Z., Zhang, Y., Yue, Y.,  Rashmi, K. V.<br>
+Proceedings of the 29th ACM Symposium on Operating Systems Principles, October 2023

@@ -237,8 +237,11 @@ For projects
 * You cannot combine late days and grace days to submit more than two days late.
 
 For problem sets
-: No late submissions are accepted, with or without penalty.
-**Make sure you submit on time.**
+: You have a limit of 2 grace days totaled over all four problem sets.
+You can use at most one of those grace days per problem set. Although
+Gradescope does not track grace days, we will. Exceeding your grace
+days will result in a zero grade for that problem set.
+
 
 ### Submitting Projects
 
