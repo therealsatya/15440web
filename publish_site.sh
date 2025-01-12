@@ -20,7 +20,7 @@ bundle exec jekyll build
 #mv _site/wellbeing/index-NEW.html _site/wellbeing/index.html
 
 # Then copy to ~440 in AFS
-#scp -r _site/* $USER@unix.andrew.cmu.edu:/afs/andrew.cmu.edu/course/15/440/www/
+scp -r _site/* $USER@unix.andrew.cmu.edu:/afs/andrew.cmu.edu/course/15/440/www/
 
 #
 # The curl step below doesn't seem to work for me. After the above scp into
