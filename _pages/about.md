@@ -200,7 +200,7 @@ To be fair to everyone, especially when there is a long line of students waiting
 
 ### Piazza Policy
 
-This course uses the Piazza website for answering questions: [here is the Piazza page for this course](https://piazza.com/cmu/spring2024/1544015640/home).
+This course uses the Piazza website for answering questions: [here is the Piazza page for this course](https://piazza.com/cmu/spring2025/1544015640/home).
 
 Think of piazza as raising your hand in class and asking a question.   No question is too stupid to ask, so don't be afraid.    For every person who asks a question, there are probably many others to whom the same question has already arisen or will arise soon.    The answer to your question may benefit them as well.   In addition, there may be some people to whom your question did not occur.    By asking the question, you are helping them see a subtlety that they may have not seen before.   Direct email to the instructors will not be answered.
 
