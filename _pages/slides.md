@@ -15,5 +15,5 @@ you when you graduate, for reference throughout the rest of your
 professional career.  However, you should not distribute them in
 printed or electronic form at any time.
 
-The slides can be found [here](https://www.cs.cmu.edu/afs/andrew/course/15/440/classnotes).
+The slides can be found in AFS at /afs/andrew/course/15/440/classnotes.
 
