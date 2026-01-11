@@ -94,8 +94,7 @@ concepts in distributed systems:
 
 All coursework is done individually. There are no teams or project
 partners.  We will have a mid-term exam and a final exam.  The overall
-course grade will be determined as follows (all weights approximate,
-within a 5% range):
+course grade will be determined as follows (**all weights approximate, within a 5% range**):
 * 40% for 4 projects, equally weighted
 * 20% for 4 problem sets, equally weighted
 * 17% for mid-semester exam
@@ -104,7 +103,7 @@ within a 5% range):
 ## Course Logistics
 
 [This Piazza table](
-https://piazza.com/class/m5r0h451ib72um/post/7)
+https://piazza.com/class/mk2ui4uhn341y0/post/10)
 gives the up-to-date office hours of all instructors for this class. 
 The locations where their office hours will be held can also be found in that table.
 
@@ -124,7 +123,7 @@ The locations where their office hours will be held can also be found in that ta
 |Shermern Ang|shermera|
 |Daniel Cha|kwonryuc|
 |Aditya Chanana|achanana|
-|Bhagav Kommireddy|bkommire|
+|Bhargav Kommireddy|bkommire|
 |Hunter Rhoades|hrhoades|
 |Andrews Varghese|ageorgev|
 |Cindy Wang|cindywan|
