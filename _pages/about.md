@@ -120,11 +120,11 @@ The locations where their office hours will be held can also be found in that ta
 | Name |AndrewID|
 |------|---------------|
 |Maelle Allanic|mallanic|
-|Shermern Ang|shermera|
 |Daniel Cha|kwonryuc|
 |Aditya Chanana|achanana|
 |Bhargav Kommireddy|bkommire|
 |Hunter Rhoades|hrhoades|
+|Varshini Subramanian|varshins|
 |Andrews Varghese|ageorgev|
 |Cindy Wang|cindywan|
 |Katherine Zhao|katheriz|
